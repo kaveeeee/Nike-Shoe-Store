@@ -1,18 +1,15 @@
 # Nike Shoe Store Website
 
-### *Shoe Showcasing Website for Nike template, I Developed for Practicing purpose.*
+### *Kavee Showcasing Website for Nike template, I Developed for Practicing purpose.*
 
 
-
-# Video
-https://youtu.be/vhnFcb4cf7I
 
 
 # HOMEPAGE
 <img src='/images/NikeSite.png'/>
 
 
-### :link:link : https://nike-shoe-store.netlify.app/
+
 
 
 ## Features
@@ -26,7 +23,7 @@ https://youtu.be/vhnFcb4cf7I
 
 ## Run Locally 
 
-- Run this command `git clone https://github.com/developer-junaid/Nike-Shoe-Store.git`
+- Run this command `git clone https://github.com/kaveeeee/Nike-Shoe-Store.git`
 - You are now in the dev environment and you can play around 
 
 ## Tech Stack
